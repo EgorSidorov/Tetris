@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tetris_music.mp3</file>
+        <file>volume_icon.png</file>
+        <file>photoicon.png</file>
+    </qresource>
+</RCC>

@@ -52,7 +52,7 @@ FORMS += \
         mainwindow.ui
 
 CONFIG += mobility
-MOBILITY = 
+MOBILITY =
 
 CONFIG(release, debug|release): DESTDIR = $$OUT_PWD/release
 CONFIG(debug, debug|release): DESTDIR = $$OUT_PWD/debug
